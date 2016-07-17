@@ -10,7 +10,7 @@
 }
 
 .nav-link {
-  display: inline-block;
+  display: inline-block !important;
 
   @include hover-focus {
     text-decoration: none;
