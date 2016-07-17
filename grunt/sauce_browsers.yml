@@ -54,7 +54,7 @@
 
   {
     browserName: "iphone",
-    platform: "OS X 10.10",
+    platform: "OS X 10.11",
     version: "latest"
   },
 
